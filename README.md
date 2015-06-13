@@ -1,2 +1,2 @@
 # wxWidgets-tutorial
-Tutorial of wxWidgets from http://zetcode.com/
+Tutorial of wxWidgets 3.0 base on http://zetcode.com/
